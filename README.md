@@ -1,6 +1,6 @@
 # Fertilizer Sales Report
 
-## Interactive Dashboard
+## Interactive Dashboard:https://app.powerbi.com/groups/me/reports/af838d31-bc1e-42e9-b99d-de05cdd4ccef?ctid=df8679cd-a80e-45d8-99ac-c83ed7ff95a0&pbi_source=linkShare&bookmarkGuid=b827a80b-eaf5-42be-99a0-6cb365364293
 
 ### Description
 The Fertilizer Sales Report provides a comprehensive overview of fertilizer sales across the United States. It offers valuable insights into sales trends, product performance, and regional distribution, enabling data-driven decisions to optimize sales strategies and improve business performance.
