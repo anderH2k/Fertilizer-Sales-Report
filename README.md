@@ -70,17 +70,6 @@ This repository contains the DAX measure used for calculating **Cumulative Sales
 
 The DAX measure for **Cumulative Sales %** is as follows:
 
-```DAX
-Cumulative Sales % = 
-VAR thisCategorySale = [Sales] 
-VAR Sale_All_Categories =
-    CALCULATE([Sales], ALL(Products[Product Category])) 
-RETURN
-    CALCULATE(
-        [Sales],
-        FILTER(ALL(Products[Product Category]), [Sales] >= thisCategorySale)
-    ) / Sale_All_Categories ```
-
 ## Explanation of Each Part
 
 1. **`VAR thisCategorySale = [Sales]`**:
