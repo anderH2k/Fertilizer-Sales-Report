@@ -62,7 +62,7 @@ The Pareto chart visually represents each product category's sales contribution 
 
 ![Screenshot_14-11-2024_03522_](https://github.com/user-attachments/assets/00bf7881-9d1f-42f1-ae7a-570eab532b09)
 
-# Cumulative Sales % DAX Measure for Pareto Analysis
+## Cumulative Sales % DAX Measure for Pareto Analysis
 
 This repository contains the DAX measure used for calculating **Cumulative Sales %** in Power BI for performing Pareto Analysis.
 
