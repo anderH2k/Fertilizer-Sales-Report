@@ -36,7 +36,10 @@ As the data analyst for this project, my task was to consolidate and analyze fer
 - **Geographical Analysis**: Analyzed sales performance by region to identify high-performing and low-performing areas.
 - **Data Visualization**: Created interactive visualizations, such as line charts, bar charts, and maps, to communicate insights effectively.
 
----
+## Main Dashboard
+The main dashboard provides an in-depth view of sales behaviour, showcasing trends over time, product performance, and regional distribution by state.
+
+![Screenshot_13-11-2024_232141_](https://github.com/user-attachments/assets/453aab2e-f9a9-4083-a9c4-deb425461740)
 
 ## Key Takeaways After Analysis
 
