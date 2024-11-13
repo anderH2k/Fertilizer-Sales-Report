@@ -122,46 +122,32 @@ Let’s apply this measure to the provided data for the product categories:
    - **`Sale_All_Categories`** = $27,639,695 (total sales)
    - **Cumulative Sales**: Since Urea is the first category, its cumulative sales is just its own sales.
      - **Cumulative Sales** = $5,709,815
-   - **Cumulative Sales %**: 
-     \[
-     \frac{5,709,815}{27,639,695} \approx 20.67\%
-     \]
+   - **Cumulative Sales %**: {5,709,815}/{27,639,695} ≅ 20.67\%
 
 2. **For NPK (Sales = $5,588,670)**:
    - **`thisCategorySale`** = $5,588,670 (sales for NPK)
    - **Cumulative Sales**: Add the sales from **Urea** and **NPK**:
      - **Cumulative Sales** = $5,709,815 + $5,588,670 = $11,298,485
-   - **Cumulative Sales %**:
-     \[
-     \frac{11,298,485}{27,639,695} \approx 40.88\%
-     \]
+   - **Cumulative Sales %**: {11,298,485}/{27,639,695} ≅ 40.88\% 
 
 3. **For Phosphorus (Sales = $5,466,995)**:
    - **`thisCategorySale`** = $5,466,995 (sales for Phosphorus)
    - **Cumulative Sales**: Add the sales from **Urea**, **NPK**, and **Phosphorus**:
      - **Cumulative Sales** = $5,709,815 + $5,588,670 + $5,466,995 = $16,765,480
-   - **Cumulative Sales %**:
-     \[
-     \frac{16,765,480}{27,639,695} \approx 60.67\%
-     \]
+   - **Cumulative Sales %**: {16,765,480}/{27,639,695} ≅  60.67\%
 
 4. **For Nitrogen (Sales = $5,458,235)**:
    - **`thisCategorySale`** = $5,458,235 (sales for Nitrogen)
    - **Cumulative Sales**: Add the sales from **Urea**, **NPK**, **Phosphorus**, and **Nitrogen**:
      - **Cumulative Sales** = $5,709,815 + $5,588,670 + $5,466,995 + $5,458,235 = $22,223,715
-   - **Cumulative Sales %**:
-     \[
-     \frac{22,223,715}{27,639,695} \approx 80.39\%
-     \]
-
+   - **Cumulative Sales %**: {22,223,715}/{27,639,695} ≅ 80.39\%
+     
 5. **For Potassium (Sales = $5,415,980)**:
    - **`thisCategorySale`** = $5,415,980 (sales for Potassium)
    - **Cumulative Sales**: Add the sales from all categories:
      - **Cumulative Sales** = $5,709,815 + $5,588,670 + $5,466,995 + $5,458,235 + $5,415,980 = $27,639,695
-   - **Cumulative Sales %**:
-     \[
-     \frac{27,639,695}{27,639,695} = 100\%
-     \]
+   - **Cumulative Sales %**: {27,639,695}/{27,639,695} = 100\%
+  
 
 ---
 
