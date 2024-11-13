@@ -60,7 +60,7 @@ The Pareto chart visually represents each product category's sales contribution 
 - **Dominant Product Category**: Urea leads, contributing 21% of total sales.
 - **Cumulative Sales**: By the time we reach Phosphorus, approximately 61% of total sales are accounted for. The top three categories (Urea, NPK, and Phosphorus) together contribute to over 80% of total sales.
 
-
+![Screenshot_14-11-2024_03522_](https://github.com/user-attachments/assets/00bf7881-9d1f-42f1-ae7a-570eab532b09)
 
 # Cumulative Sales % DAX Measure for Pareto Analysis
 
