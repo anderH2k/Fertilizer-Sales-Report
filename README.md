@@ -79,7 +79,7 @@ RETURN
     CALCULATE(
         [Sales],
         FILTER(ALL(Products[Product Category]), [Sales] >= thisCategorySale)
-    ) / Sale_All_Categories
+    ) / Sale_All_Categories ```
 
 ## Explanation of Each Part
 
